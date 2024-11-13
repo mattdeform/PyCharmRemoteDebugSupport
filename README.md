@@ -15,9 +15,9 @@
   <p align="center">
     <a href="https://www.youtube.com/watch?v=wymW7qOSqiw">View Demo</a>
     ·
-    <a href="https://github.com/mattdeform/UnrealPyCharmRemoteDebug/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/mattdeform/PyCharmRemoteDebugSupport/issues/new?assignees=&labels=bug&projects=&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/mattdeform/UnrealPyCharmRemoteDebug/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/mattdeform/PyCharmRemoteDebugSupport/issues/new?assignees=&labels=enhancement&projects=&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -60,6 +60,8 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
+#### <a href="https://www.youtube.com/watch?v=wymW7qOSqiw">Quickstart video can be found here</a>
+
 ### Prerequisites
 
 * [Unreal Engine 5](https://www.unrealengine.com)
@@ -69,6 +71,7 @@
 
 
 ### Installation
+
 1. [Download and add the plugin](https://www.fab.com/listings/e85a1294-3781-4672-a660-5b92a534e463) to your library.
 2. Enable the Plugin in the Unreal "Plugin Settings" menu, and restart the editor.
     - <img src="docs/resources/images/enable_plugin.png" alt="Unreal" width="75%">
